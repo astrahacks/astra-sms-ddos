@@ -1,14 +1,13 @@
 
-- What is Vaim-sms ?
+- What is astra-sms-ddos ?
 > This is sms bomber who send otp in target phone number unlimitly.
 > Many times you just want to annoy or play a prank on your friends.
 > If you find yourself in that situation then this SMS Bomber is the perfect tool for you!
 > You can send unlimited SMS to anyone. This awesome app works with every operator/carrier.
-> this tool made by @vaimpier_ritik
+> this tool made by @Astra_hacker_india
 
-<br>
 
-- Vaim-sms features 
+- astra-sms-ddos features 
 
 * `Send unlimited messages all at one times.`
 
@@ -20,9 +19,6 @@
 
 * `No missing SMS issues, all messages will be sent.`
 
-<br>
-
-- Support
 
 > `termux and all linux os windows.etc..`
 
@@ -30,16 +26,4 @@
 
 > `ffbonline.com and more threads.`
  
- <br>
-
-- Installation & Step's
  
-> `apt update && apt upgrade`
- 
-> `git clone https://github.com/astrahacks/astra-sms-ddos.git
- 
->  astra-sms-ddos  
- 
-  bash astra-sms-ddos.sh
-
-<br>
